@@ -1,6 +1,6 @@
 # Mi Proyecto 
 
-# Integrantes
+## Integrantes
 -Fátima Arlet Domínguez Barrón
 -Julio Cesar Montoya Romero
 -Maria Belem Martín Godínez
@@ -26,4 +26,5 @@ Permite gestionar información almacenada en una base de datos y mostrar un form
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/mi-proyecto.git
+
 
