@@ -10,7 +10,7 @@
 
 ## Descripción
 Este proyecto es desarrollar un formulario de registro de usuarios aplicando buenas prácticas de desarrollo de software seguro, validando entradas, manejando errores correctamente y documentando el proceso.
-Permite gestionar información almacenada en una base de datos y mostrar un formulario.
+El sistema permite gestionar información almacenada en una base de datos y mostrar un formulario de registro.
 
 ## Tecnologías utilizadas
 - PHP
@@ -21,10 +21,14 @@ Permite gestionar información almacenada en una base de datos y mostrar un form
 - Visual Studio Code
 - Git y GitHub
 
-## Instrucciones de instalación
+## Instrucciones basicas
+1. Descargar o clonar el repositorio desde GitHub.
+2. Copiar la carpeta del proyecto dentro de xampp/htdocs
+3. Iniciar **Apache** y **MySQL** desde el panel de XAMPP.
+4. Abrir **phpMyAdmin** en el navegador http://localhost/phpmyadmin
+5. Crear una base de datos nueva.
+6. Importar el archivo `.sql` incluido en la carpeta `database`.
+7. Abrir el proyecto en el navegador http://localhost/nombre-del-proyecto 
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/mi-proyecto.git
 
 
